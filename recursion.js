@@ -1,5 +1,0 @@
-function recursion() {
-recursion();
-}
-
-recursion();
